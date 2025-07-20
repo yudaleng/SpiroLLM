@@ -1,37 +1,45 @@
-<h1 align="center">SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting</h1>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/yudaleng/SpiroLLM">
-<img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
-</a>
-<a href="https://huggingface.co/yudaleng/SpiroLLM">
-<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow?style=for-the-badge" alt="Hugging Face Model">
-</a>
-<a href="#">
+  <h1>SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting</h1>
 
-[//]: # (<img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">)
-</a>
-<img src="https://img.shields.io/badge/CC%20BY-NC-SA?style=for-the-badge" alt="License: CC BY-NC-SA 4.0">
-</p>
+  <p>
+    <a href="https://github.com/yudaleng/SpiroLLM">
+      <img src="https://img.shields.io/badge/GitHub-Code-blue?logo=github" alt="GitHub Repository">
+    </a>
+    <a href="https://huggingface.co/yudaleng/SpiroLLM">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow" alt="Hugging Face Model">
+    </a>
+    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+      <img src="https://img.shields.io/badge/CC%20BY-NC-SA" alt="License: CC BY-NC-SA 4.0">
+    </a>
+  </p>
 
-<p align="center">
-<strong><a href="#">Shuhao Mei</a> [1, 2, 7], <a href="#">Yongchao Long</a> [2], <a href="#">Shan Cao</a> [3], <a href="#">Xiaobo Han</a> [4], <a href="#">Shijia Geng</a> [5],</strong><br>
-<strong><a href="#">Jinbo Sun</a> [1]<em>*, <a href="#">Yuxi Zhou</a> [2, 6]<em>*, <a href="https://hsd1503.github.io/">Shenda Hong</a> [7]<em>* </strong>
-<br>
-<br>
-<small>
-[1] <a href="https://www.xidian.edu.cn/">Xidian University</a>;
-[2] <a href="https://www.tjut.edu.cn/">Tianjin University of Technology</a>;
-[3] <a href="https://www.tjmush.com.cn/index.shtml">The Second Hospital of Tianjin Medical University</a>;
-[4] <a href="https://www.301hospital.com.cn/index.html">Chinese PLA General Hospital</a>;
-</small><br>
-<small>
-[5] <a href="https://www.heartvoice.com.cn/about.html">HeartVoice Medical Technology</a>;
-[6] <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>;
-[7] <a href="https://www.pku.edu.cn/">Peking University</a>
-</small><br>
-<small><em>* Corresponding Author</em></small>
-</p>
+  <a href="#">Shuhao Mei</a><sup>1,2,7</sup>,
+  <a href="#">Yongchao Long</a><sup>2</sup>,
+  <a href="#">Shan Cao</a><sup>3</sup>,
+  <a href="#">Xiaobo Han</a><sup>4</sup>,
+  <a href="#">Shijia Geng</a><sup>5</sup>,
+  <a href="#">Jinbo Sun</a><sup>1,*</sup>,
+  <a href="#">Yuxi Zhou</a><sup>2,6,*</sup>,
+  <a href="https://hsd1503.github.io/">Shenda Hong</a><sup>7,*</sup>
+
+  <p>
+  <sup>1</sup><a href="https://www.xidian.edu.cn/">Xidian University</a>
+  <sup>2</sup><a href="https://www.tjut.edu.cn/">Tianjin University of Technology</a>
+  <sup>3</sup><a href="https://www.tjmush.com.cn/index.shtml">The Second Hospital of Tianjin Medical University</a>
+  <sup>4</sup><a href="https://www.301hospital.com.cn/index.html">Chinese PLA General Hospital</a>
+  <sup>5</sup><a href="https://www.heartvoice.com.cn/about.html">HeartVoice Medical Technology</a>
+  <sup>6</sup><a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>
+  <sup>7</sup><a href="https://www.pku.edu.cn/">Peking University</a>
+  </p>
+  
+  <p><sup>*</sup>Corresponding Author</p>
+
+  <p align="center">
+      <img src="figs/framework.png" width="90%">
+  </p>
+
+</div>
 
 
 ---
