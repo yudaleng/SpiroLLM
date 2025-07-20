@@ -1,0 +1,40 @@
+# 1. File and Directory Paths
+paths:
+  spirollm_model_path: "./weights/merged_spirollm_weight"
+  deepspiro_model_path: "./weights/deepspiro_weight.pth"
+  spiro_projection_path: "./weights/spiroprojector_weight.pth"
+  output_file: "./SpiroLLM_reports.jsonl"
+  spirollm_repo_id: "yudaleng/SpiroLLM"
+
+# 2. Model Parameters
+model_params:
+  torch_dtype: "bf16"
+  spiro_feature_dim: 128
+
+# 3. Data Fields in JSONL file
+data_fields:
+    eid: "eid"
+    raw_signal: "flow_volume_data"
+    pft_text: "pft_json"
+
+# 4. Feature Extraction Parameters (for DeepSpiro)
+feature_extraction_params:
+  n_len_seg: 30
+  raw_signal_dim: 1
+  n_classes_model: 2
+  batch_size_deepspiro: 256
+  batch_size_segmenter: 64
+
+# 5. Inference Parameters
+inference_params:
+  device: "cuda:0"
+  batch_size: 1
+  max_test_samples: null
+  use_spiro_features: true
+
+# 6. Generation Parameters
+generation_params:
+  max_new_tokens: 1024
+  do_sample: false
+  temperature: 0.6
+  top_p: 0.9
