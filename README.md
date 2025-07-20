@@ -19,9 +19,9 @@
   <a href="#">Shan Cao</a><sup>3</sup>,
   <a href="#">Xiaobo Han</a><sup>4</sup>,
   <a href="#">Shijia Geng</a><sup>5</sup>,
-  <a href="#">Jinbo Sun</a><sup>1,*</sup>,
-  <a href="#">Yuxi Zhou</a><sup>2,6,*</sup>,
-  <a href="https://hsd1503.github.io/">Shenda Hong</a><sup>7,*</sup>
+  <a href="#">Jinbo Sun</a><sup>1,\*</sup>,
+  <a href="#">Yuxi Zhou</a><sup>2,6,\*</sup>,
+  <a href="https://hsd1503.github.io/">Shenda Hong</a><sup>7,\*</sup>
 
   <p>
   <sup>1</sup><a href="https://www.xidian.edu.cn/">Xidian University</a>
