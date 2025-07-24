@@ -3,6 +3,9 @@
   <h1>SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting</h1>
 
   <p>
+    <a href='https://arxiv.org/abs/2507.16145'>
+      <img src='https://img.shields.io/badge/Paper-Arxiv-red'>
+    </a>
     <a href="https://github.com/yudaleng/SpiroLLM">
       <img src="https://img.shields.io/badge/GitHub-Code-blue?logo=github" alt="GitHub Repository">
     </a>
@@ -47,6 +50,18 @@
 ## Introduction
 SpiroLLM is the **first** multimodal large language model specifically designed to interpret spirogram time-series data, providing diagnostic support for Chronic Obstructive Pulmonary Disease (COPD). By integrating raw spirometry signals with demographic information, SpiroLLM generates comprehensive and clinically relevant diagnostic reports.
 
+If you find SpiroLLM useful for your work, please consider citing our work.
+```
+@misc{mei2025spirollmfinetuningpretrainedllms,
+      title={SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting}, 
+      author={Shuhao Mei and Yongchao Long and Shan Cao and Xiaobo Han and Shijia Geng and Jinbo Sun and Yuxi Zhou and Shenda Hong},
+      year={2025},
+      eprint={2507.16145},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2507.16145}, 
+}
+```
 ---
 
 ## Quickstart
