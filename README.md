@@ -3,6 +3,9 @@
   <h1>SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting</h1>
 
   <p>
+    <a href='https://spirollm.yuleng.top'>
+      <img src='https://img.shields.io/badge/Project-Page-green'>
+    </a>
     <a href='https://arxiv.org/abs/2507.16145'>
       <img src='https://img.shields.io/badge/Paper-Arxiv-red'>
     </a>
@@ -19,6 +22,7 @@
 
   <a href="#">Shuhao Mei</a><sup>1,2,7</sup>,
   <a href="#">Yongchao Long</a><sup>2</sup>,
+  <a href="#">Xiaoyu Xiao</a><sup>1</sup>,
   <a href="#">Shan Cao</a><sup>3</sup>,
   <a href="#">Xiaobo Han</a><sup>4</sup>,
   <a href="#">Shijia Geng</a><sup>5</sup>,
