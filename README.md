@@ -6,7 +6,7 @@
     <a href='https://spirollm.yuleng.top'>
       <img src='https://img.shields.io/badge/Project-Page-green'>
     </a>
-    <a href='https://arxiv.org/abs/2507.16145'>
+    <a href='https://doi.org/10.1371/journal.pdig.0001300'>
       <img src='https://img.shields.io/badge/Paper-Arxiv-red'>
     </a>
     <a href="https://github.com/yudaleng/SpiroLLM">
@@ -56,14 +56,18 @@ SpiroLLM is the **first** multimodal large language model specifically designed 
 
 If you find SpiroLLM useful for your work, please consider citing our work.
 ```
-@misc{mei2025spirollmfinetuningpretrainedllms,
-      title={SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting}, 
-      author={Shuhao Mei and Yongchao Long and Shan Cao and Xiaobo Han and Shijia Geng and Jinbo Sun and Yuxi Zhou and Shenda Hong},
-      year={2025},
-      eprint={2507.16145},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2507.16145}, 
+@article{mei2025spirollm,
+    doi = {10.1371/journal.pdig.0001300},
+    author = {Mei, Shuhao AND Long, Yongchao AND Xiao, Xiaoyu AND Cao, Shan AND Han, Xiaobo AND Geng, Shijia AND Sun, Jinbo AND Zhou, Yuxi AND Hong, Shenda},
+    journal = {PLOS Digital Health},
+    publisher = {Public Library of Science},
+    title = {SpiroLLM: Finetuning pretrained LLMs to understand spirogram time series with clinical validation in COPD reporting},
+    year = {2026},
+    month = {03},
+    volume = {5},
+    url = {https://doi.org/10.1371/journal.pdig.0001300},
+    pages = {1-19},
+    number = {3},
 }
 ```
 ---
