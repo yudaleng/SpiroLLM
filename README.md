@@ -7,7 +7,7 @@
       <img src='https://img.shields.io/badge/Project-Page-green'>
     </a>
     <a href='https://doi.org/10.1371/journal.pdig.0001300'>
-      <img src='https://img.shields.io/badge/Paper-Arxiv-red'>
+      <img src='https://img.shields.io/badge/Paper-Html-red'>
     </a>
     <a href="https://github.com/yudaleng/SpiroLLM">
       <img src="https://img.shields.io/badge/GitHub-Code-blue?logo=github" alt="GitHub Repository">
