@@ -12,9 +12,6 @@
     <a href="https://github.com/yudaleng/SpiroLLM">
       <img src="https://img.shields.io/badge/GitHub-Code-blue?logo=github" alt="GitHub Repository">
     </a>
-    <a href="https://huggingface.co/yudaleng/SpiroLLM">
-      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow" alt="Hugging Face Model">
-    </a>
     <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
       <img src="https://img.shields.io/badge/CC%20BY-NC-SA" alt="License: CC BY-NC-SA 4.0">
     </a>
